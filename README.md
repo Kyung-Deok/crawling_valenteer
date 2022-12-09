@@ -28,4 +28,4 @@ pyinstaller -F saram.py
 
 이후 exe 파일을 돌려보면 정상적으로 작동합니다.
 
-![Untitled](crawling_valenteer%20readme%20acdceedcbc1f414b8e1864baa99fcc19/Untitled.png)
+![program_img](./Untitled.png)
